@@ -1,1 +1,15 @@
-
+button {
+    padding: 1em;
+    margin: .2em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+    background-color: ghostwhite;
+    border-color: ghostwhite;
+  }
+  
+  button:hover {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    border-color: ghostwhite;
+    transition: 2s;
+  }
